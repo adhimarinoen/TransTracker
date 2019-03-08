@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Trans Tracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="_3a">3A</string>
+    <string name="_3b">3B</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="mencari_shelter_terdekat">Mencari Shelter Terdekat</string>
+    <string name="posisi_trans">Posisi Trans</string>
+    <string name="lokasi_shelter">Lokasi Shelter</string>
+    <string name="todo1">TODO</string>
+    <string name="tentang">Tentang</string>
+    <string name="title_activity_maps4">Map</string>
+    <string name="trans_tracker_for_android">Trans Tracker for Android</string>
+    <string name="Tex">TransTracker for Android</string>
+    <string name="txt">Copyright © 2017</string>
+    <string name="dibuat_oleh">Dibuat Oleh</string>
+    <string name="_14_11_8476">14.11.8476</string>
+    <string name="adhima_rino_narendra">Adhima Rino Narendra</string>
+    <string name="versi_1_0_1">Versi 1.0.0</string>
+    <string name="trans_tracker">Trans Tracker</string>
+    <string name="versi_1_0_0">Versi 1.0.0</string>
+    <string name="copyright_2017">Copyright © 2018</string>
+    <string name="_14_11_8478">14.11.8478</string>
+    <string name="universitas_amikom_yogyakarta">Universitas Amikom Yogyakarta</string>
+    <string name="gmbr">gmbr</string>
+</resources>

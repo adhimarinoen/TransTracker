@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:background="@android:color/white"
+    tools:context="com.example.adhimarino.myapplication.TransTracker">
+
+    <Button
+        android:id="@+id/btn_posisi"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_tnt"
+        android:layout_alignLeft="@+id/btn_tnt"
+        android:layout_alignStart="@+id/btn_tnt"
+        android:layout_marginBottom="30dp"
+        android:text="@string/posisi_trans"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="335dp" />
+
+    <Button
+        android:id="@+id/btn_tnt"
+        android:layout_width="124dp"
+        android:layout_height="48dp"
+        android:layout_above="@+id/btn_ext"
+        android:layout_alignLeft="@+id/btn_ext"
+        android:layout_alignStart="@+id/btn_ext"
+        android:layout_marginBottom="34dp"
+        android:text="@string/lokasi_shelter"
+        android:textSize="12sp"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="260dp" />
+
+    <Button
+        android:id="@+id/btn_ext"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="124dp"
+        android:text="@string/tentang"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="417dp" />
+
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="330dp"
+        android:layout_height="105dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="11dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="36dp"
+        android:contentDescription="@string/todo"
+        app:srcCompat="@drawable/fdf"
+        tools:layout_editor_absoluteX="74dp"
+        tools:layout_editor_absoluteY="80dp" />
+</RelativeLayout>
